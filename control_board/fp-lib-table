@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 217182-0001)(type KiCad)(uri ${KIPRJMOD}/libs/217182-0001)(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/libs/digikey-footprints)(options "")(descr ""))
+  (lib (name SDM02U30LP3-7B)(type KiCad)(uri ${KIPRJMOD}/libs/SDM02U30LP3-7B)(options "")(descr ""))
+)

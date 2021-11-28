@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name 217182-0001)(type Legacy)(uri ${KIPRJMOD}/libs/217182-0001/217182-0001.lib)(options "")(descr ""))
+  (lib (name SDM02U30LP3-7B)(type Legacy)(uri ${KIPRJMOD}/libs/SDM02U30LP3-7B/SDM02U30LP3-7B.lib)(options "")(descr ""))
+  (lib (name LD2981CM50TR)(type Legacy)(uri ${KIPRJMOD}/libs/LD2981CM50TR/eec.lib)(options "")(descr ""))
+  (lib (name LD2981CU33TR)(type Legacy)(uri ${KIPRJMOD}/libs/LD2981CU33TR/2021-08-23_06-29-24.lib)(options "")(descr ""))
+  (lib (name STM8L151C6T6)(type Legacy)(uri ${KIPRJMOD}/libs/STM8L151C6T6/STM8L151C6T6.lib)(options "")(descr ""))
+)
