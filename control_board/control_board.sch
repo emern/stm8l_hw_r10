@@ -313,7 +313,7 @@ Wire Wire Line
 	11350 1500 11350 1650
 Connection ~ 11350 1500
 Wire Wire Line
-	11350 1500 11600 1500
+	11350 1500 11450 1500
 Text GLabel 11350 1950 3    50   Input ~ 0
 GND
 Text GLabel 12000 1900 3    50   Input ~ 0
@@ -1051,4 +1051,11 @@ Wire Wire Line
 	8250 6650 8200 6650
 Wire Wire Line
 	8200 6650 8200 6900
+Wire Wire Line
+	11600 1600 11450 1600
+Wire Wire Line
+	11450 1600 11450 1500
+Connection ~ 11450 1500
+Wire Wire Line
+	11450 1500 11600 1500
 $EndSCHEMATC
